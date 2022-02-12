@@ -3,7 +3,6 @@
 ## I'm a Brazillian Student!!
 
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to learn more backend
 - ⚡ Fun fact: I love to gaming and play guitar
 
 ### Social:
@@ -28,7 +27,7 @@
 </a>
 <br />
 
-### Next To Learn:
+### To Learn:
 
 <a href='https://github.com/D4v3sb'>
 <img align="left" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
