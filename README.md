@@ -2,7 +2,7 @@
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=D4v3sb&color=blueviolet" alt="Profile views" /> </p>
 
-<img src="https://c.tenor.com/WMDaQC2SpB4AAAAM/guitar-cat.gif" width=25% align="right">
+<img src="https://c.tenor.com/WMDaQC2SpB4AAAAM/guitar-cat.gif" width="125px" align="right">
 
 - 💻 Technology Passionate
 - 🎸 Guitar Player
