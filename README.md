@@ -11,8 +11,10 @@
 
 <br>
 <div align="left">
-<a href="https://discord.com/users/904891162362519562"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/jackoskelt/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+</div>
+<div>
+<a href="https://discord.com/users/904891162362519562"><img src="https://lanyard.cnrad.dev/api/904891162362519562"></a>
 </div>
 
 <br>
