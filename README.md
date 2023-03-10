@@ -1,4 +1,4 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dave! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
+<h1 align="center"> Hi <img src="./hi.gif" height="30px">, I'm Dave! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=D4v3sb&color=blueviolet" alt="Profile views" /> </p>
 
@@ -11,9 +11,7 @@
 
 <br>
 <div align="left">
-<a href="https://steamcommunity.com/id/jackoskelt/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-</div>
-<div>
+<a href="https://steamcommunity.com/id/jackoskelt/"><img src="https://steam-stat.vercel.app/api?profileName=jackoskelt"></a>
 <a href="https://discord.com/users/904891162362519562"><img src="https://lanyard.cnrad.dev/api/904891162362519562"></a>
 </div>
 
@@ -23,11 +21,14 @@
 <a href="https://github.com/D4v3sb">
 <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+<img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-<img src = "	https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
+<img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
+<img src = "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 </a>
 
 <br>
