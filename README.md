@@ -1,44 +1,40 @@
-<h1 align="center"> Hi <img src="./hi.gif" height="30px">, I'm Dave! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
+<h1 align="center"> Hi <img src="./gifs/hi.gif" height="30px">, I'm Dave! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=D4v3sb&color=blueviolet" alt="Profile views" /> </p>
 
-<img src="https://c.tenor.com/WMDaQC2SpB4AAAAM/guitar-cat.gif" width="125px" align="right">
-
-- 💻 Technology Passionate
-- 🎸 Guitar Player
-- 📕 Student
-- 🎮 Gaming in my free time
-
-<br>
-<div align="left">
-<a href="https://steamcommunity.com/id/jackoskelt/"><img src="https://steam-stat.vercel.app/api?profileName=jackoskelt"></a>
+<div align="center">
 <a href="https://discord.com/users/904891162362519562"><img src="https://lanyard.cnrad.dev/api/904891162362519562"></a>
 </div>
 
-<br>
-
-<h1 align="center"><img src="https://c.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif" width=5%> Stacks</h1>
-<a href="https://github.com/D4v3sb">
-<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src = "https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
-<img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-<img src = "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-<img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-<img src = "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-<img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<img src = "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-</a>
-
-<br>
-<br>
-
+<h1 align="center"><img src="https://c.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif">Stacks</h1>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=D4v3sb&show_icons=true&theme=dark"/>
+<a href="https://rust-lang.org/"><img alt="Rust" src="./icons/rust.svg" height=42></a>
+<a href="https://typescriptlang.org/"><img src="./icons/typescript.svg" height=42></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./icons/javascript.svg" width=42></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./icons/html.svg" width=42></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./icons/css.svg" height=42></a>
+<a href="https://svelte.dev/"><img src="./icons/svelte.svg" height=42></a>
+<a href="https://nodejs.org/"><img src="./icons/nodejs.svg" height=42></a>
+<a href="https://discordjs.dev/"><img src="./icons/discordjs.svg" height=42>
+<a href="https://expressjs.com/"><img src="./icons/expressjs.svg" height=42></a>
+<a href="https://sequelize.org/"><img src="./icons/sequelize.svg" height=42></a>
+<a href="https://nestjs.com/"><img src="./icons/nestjs.svg" height=42></a>
+<a href="https://socket.io/"><img src="./icons/socketio.svg" height=42></a>
+<a href="https://electronjs.org/"><img src="./icons/electron.svg" height=42></a>
+<a href="https://tailwindcss.com/"><img src="./icons/tailwind.svg" height=42></a>
+<a href="https://mongodb.com/"><img src="./icons/mongodb.svg" height=42></a>
+<a href="https://mysql.com/"><img src="./icons/mysql.svg" height=42></a>
+<a href="https://postgresql.org/"><img src="./icons/postgresql.svg" height=42></a>
+<a href="https://helix-editor.com/"><img src="./icons/helix.svg" height=42></a>
+<a href="https://jetbrains.com/"><img src="./icons/jetbrains.svg" height=42></a>
+<a href="https://code.visualstudio.com/"><img src="./icons/vscode.svg" height=42></a>
+<a href="https://docker.com/"><img src="./icons/docker.svg" height=42></a>
+<a href="https://fedoraproject.org/"><img src="./icons/fedora.svg" height=42></a>
+<a href="https://git-scm.com/"><img src="./icons/git.svg" height=42></a>
+<a href="https://discloudbot.com/"><img src="./icons/discloud.svg" height=32></a>
 </div>
+
 <br>
-<hr>
 <br>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rV1CmS8C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/9yn7vhjsvzhgi0w9p7he.gif" width=100%>
+<img src="./gifs/military-strategy.gif" width=100%>
