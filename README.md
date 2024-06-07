@@ -39,3 +39,6 @@
 <br>
 
 <a href="https://youtu.be/dQw4w9WgXcQ"><img src="./gifs/military-strategy.gif" width=100%></a>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/jackskelt/jackskelt/assets/86922268/cb684c8c-e6db-4aa3-a8f2-2e0b3f7a777c') cover;]{x0000}$}
