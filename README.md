@@ -41,4 +41,4 @@
 <a href="https://youtu.be/dQw4w9WgXcQ"><img src="./gifs/military-strategy.gif" width=100%></a>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/jackskelt/jackskelt/assets/86922268/cb684c8c-e6db-4aa3-a8f2-2e0b3f7a777c'); background-size: cover;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.5; background: url('https://github.com/jackskelt/jackskelt/assets/86922268/b00e5a1a-2c78-490d-b92c-987a8d1f8719'); background-size: cover; background-position: center;]{x0000}$}
