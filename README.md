@@ -1,10 +1,4 @@
-<h1 align="center"> Hi <img src="./gifs/hi.gif" height="30px">, I'm Dave! <img src="https://c.tenor.com/rz4kOurhQ0QAAAAC/big-mouth-cat.gif" height="30px">
-</h1>
 <p align="center"> <a href="https://youtu.be/5a9E3n_VZRQ"><img src="https://komarev.com/ghpvc/?username=D4v3sb&color=blueviolet" alt="Profile views" /></a></p>
-
-<div align="center">
-<a target="_blank" href="https://discord.com/users/904891162362519562"><img src="https://lanyard.cnrad.dev/api/904891162362519562"></a>
-</div>
 
 <h1 align="center"><img src="https://c.tenor.com/Q5dH7srnB6EAAAAj/capoo-bug-cat.gif">Stacks</h1>
 <div align="center">
